@@ -1,0 +1,15 @@
+# moncake
+train: /data/dataset/train
+val: /data/dataset/valid
+
+
+# Classes
+names:
+  0: Bla_dot
+  1: Yel_dot
+  2: Exc_hair
+  3: Sho_hair
+  4: Bro_hair
+  5: Ves
+
+
