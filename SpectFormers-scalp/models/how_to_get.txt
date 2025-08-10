@@ -1,0 +1,1 @@
+Due to the large file size, the model checkpoint is not included in the repository. If you require the model, please kindly send an email to chenyul@bupt.edu.cn to request it.
